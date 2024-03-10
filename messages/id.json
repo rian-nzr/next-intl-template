@@ -1,0 +1,36 @@
+{
+  "IndexPage": {
+    "title": "Selamat Datang di",
+    "colorTitle": "UpdateStatus!",
+    "description": "Apakah Anda mencari layanan HIV / IMS yang ramah dan rahasia? Pilih layanan yang Anda sukai dengan menekan tombol",
+    "notes": "Penilaian kebutuhan memberikan rekomendasi untuk layanan HIV disesuaikan dengan respon yang sudah Kamu berikan namun hal ini tidak menggantikan saran dari petugas kesehatan yang menangani Kamu. Kami sangat memahami privasi dan kerahasiaan adalah hal yang sangat penting bagi klien kami. Setiap data yang dikumpulkan dijaga kerahasiaannya dan tidak akan digunakan untuk mengungkap identitas Kamu. Situs ini menggunakan 'cookie untuk mengetahui tingkat aktifitas di situs web kami. Baca persyaratan lengkapnya di",
+    "url": " kebijakan privasi dan penggunaan data kami"
+  },
+  "NotFoundPage": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Ups! Sepertinya Anda menemukan halaman yang tidak ada. Jangan khawatir, sihir internasionalisasi kami masih bekerja keras di bagian lain aplikasi. Silakan kembali untuk menjelajahi lebih lanjut!"
+  },
+  "Navigation": {
+    "home": "Beranda"
+  },
+  "Footer": {
+    "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
+  },
+  "selectionPage": {
+    "title1": "Bantu Saya",
+    "underlinei1": "Menentukan Pilihan",
+    "des1": "Apakah Kamu perlu bantuan untuk menentukan layanan apa yang tepat untukmu?",
+    "select11": "Cek Resiko HIV Kamu",
+    "select12": "Mengobrol",
+    "title2": "layanan sekarang",
+    "underlinei2": "Reservasi",
+    "des2": "Pilih layanan yang sesuai dengan kebutuhan Kamu",
+    "select21": "Tes HIV",
+    "select22": "Pre-Exposure Prophylaxis (PrEP)",
+    "select23": "Tes HIV Mandiri",
+    "select24": "Pengobatan HIV",
+    "select25": "Tes Viral Load",
+    "select26": "Notifikasi Pasangan",
+    "desChat":"Mengobrol dengan kami"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "IndexPage": {
+    "title": "Welcome to",
+    "colorTitle": "UpdateStatus !",
+    "description": "Are you looking for friendly and confidential HIV/STI services? Choose your preferred services by pressing the ",
+    "notes": "The risk assessment provides recommendations for HIV services tailored to your responses but does not replace your doctor’s advice. We understand privacy and confidentiality are very important to our valued clients. Any data collected is kept confidential and will not be used to determine your identity. This site uses cookies to understand our site traffic. Read the full terms in our",
+    "url": "data use and privacy policy"
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "home": "Home"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  },
+  "selectionPage": {
+    "title1": "Help me decide",
+    "underlinei1": "decide",
+    "des1":"Need help deciding what services are right for you?",
+    "select11": "Assess My Needs",
+    "select12": "Chat",
+    "title2": "now",
+    "underlinei2": "Book services",
+    "des2":"Select a service that meets your needs",
+    "select21": "HIV Testing",
+    "select22": "Pre-Exposure Prophylaxis (PEP)",
+    "select23": "HIV Self-Testing",
+    "select24": "HIV Treatment (ART)",
+    "select25": "Viral Load Testing",
+    "select26": "Partner Notifications",
+    "desChat":"Chat with us"
+  }
+}
